@@ -7,7 +7,7 @@ This project contain algorithms which can create fractals.
 
 ## Description
 Project contain the following fractals:
-<center>
+
 <h3>Sierpinski carpet</h3>
 <img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/dywan.png" height="40%" width="40%">
 <h3>Koch snowflake</h3>
@@ -21,4 +21,4 @@ Project contain the following fractals:
 <div style="display: inline;">
 <img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random1.png" height="30%" width="30%"><img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random2.png" height="30%" width="30%"><img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random3.png" height="30%" width="30%">
 </div>
-</center>
+
