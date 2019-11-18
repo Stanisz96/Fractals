@@ -9,9 +9,9 @@ This project contain algorithms which can create fractals.
 Project contain the following fractals:
 
 ### Sierpinski carpet
-![carpet](https://raw.githubusercontent.com/Stanisz96/Fractals/master//RUN/dist/dywan.png =50x50)
+![carpet](https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/dywan.png =50x50)
 ### Koch snowflake
-![snowflake](https://raw.githubusercontent.com/Stanisz96/Fractals/master//RUN/dist/sniezka.png)
+![snowflake](https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/sniezka.png)
 ### Sierpinski triangle
-![triangle](https://raw.githubusercontent.com/Stanisz96/Fractals/master//RUN/dist/trojkat.png)
+![triangle](https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/trojkat.png)
 ### IFS fractals
