@@ -17,4 +17,6 @@ Project contain the following fractals:
 <h3>IFS fractals</h3>
 <img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/krzak.png" height="25%" width="25%"><img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/smok.png" height="25%" width="25%"><img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/paproc.png" height="25%" width="25%">
 <h3>IFS RANDOM fractals</h3>
+<div style="display: inline;">
 <img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random1.png" height="25%" width="25%"><img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random2.png" height="25%" width="25%"><img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random3.png" height="25%" width="25%">
+</div>
