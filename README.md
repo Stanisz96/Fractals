@@ -9,10 +9,16 @@ This project contain algorithms which can create fractals.
 Project contain the following fractals:
 
 ### Sierpinski carpet
-![carpet](https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/dywan.png =50x50)
-<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/dywan.png" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/dywan.png" height="25%" width="25%">
 ### Koch snowflake
-![snowflake](https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/sniezka.png)
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/sniezka.png" height="25%" width="25%">
 ### Sierpinski triangle
-![triangle](https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/trojkat.png)
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/trojkat.png" height="25%" width="25%">
 ### IFS fractals
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/krzak.png" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/smok.png" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/paproc.png" height="25%" width="25%">
+### IFS RANDOM fractals
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random1.png" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random2.png" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/Stanisz96/Fractals/master/RUN/dist/random3.png" height="25%" width="25%">
